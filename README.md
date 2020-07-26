@@ -1,5 +1,7 @@
 ![PanSen Panel logo](./assets/title.png?raw=true)
+
 ----
+
 ![](https://img.shields.io/badge/build-passing-brightgreen)
 ![](https://img.shields.io/badge/stable-v1.0.0-blue)
 ![](https://img.shields.io/badge/downloads-108MB-orange)
