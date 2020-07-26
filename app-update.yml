@@ -1,0 +1,6 @@
+owner: ar414-com
+repo: pansen-panel
+provider: github
+vPrefixedTagName: true
+releaseType: release
+updaterCacheDirName: pansen-panel-updater

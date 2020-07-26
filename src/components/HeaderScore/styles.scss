@@ -1,0 +1,66 @@
+.header-score-wrapper {
+  width: 100%;
+  height: 13vh;
+  padding: 0 30vw;
+
+  .header-score {
+    //background: red;
+    width: 100%;
+    height: 100%;
+  }
+
+  .item {
+    //background: #61dafb;
+  }
+
+  .left-right-score {
+    font-size: 1rem;
+    text-align: center;
+    font-weight: bold;
+    span.count {
+      margin: 0 8px;
+      vertical-align:middle;
+    }
+  }
+
+  .font-blue {
+    color: #0d7eff;
+  }
+
+  .font-red {
+    color: #ff4c6a;
+  }
+
+  .score {
+    vertical-align:middle;
+    font-size: 2rem;
+    font-weight: bold;
+    position: relative;
+  }
+
+  .score-icon {
+    margin-left: 10px;
+    margin-top: 10px;
+  }
+
+  .game_time {
+    position: absolute;
+    font-size: 1rem;
+    //background: #f7f8fa;
+    left: 0;
+    right: 0;
+    width: 40%;
+    margin: auto;
+    color: #FFF;
+  }
+
+  .dragon {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    img {
+      margin-left: 5px;
+    }
+  }
+}
