@@ -37,4 +37,4 @@ Riot Live Client Data API Panel **[Download Latest Release](https://github.com/a
 
 
 ### Support Author
-[![coffee](http://cdn.ar414.com/coffee.png)](https://www.buymeacoffee.com/ar414)
+[![coffee](http://cdn.ar414.com/coffee.png)](https://www.buymeacoffee.com/ar414)  [![wx](https://cdn.ar414.com/wecaht-logo.png)](https://cdn.ar414.com/wxpay_coffee.jpg)[![alipay](https://cdn.ar414.com/alipay-logo.png)](https://cdn.ar414.com/alipay_coffee.jpg)
