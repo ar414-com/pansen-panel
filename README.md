@@ -36,4 +36,5 @@ Riot Live Client Data API Panel **[Download Latest Release](https://github.com/a
 ![PanSen Panel Live](./assets/live.png?row=true)
 
 
-[![coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/ar414)
+### Support Author
+[![coffee](http://cdn.ar414.com/coffee.png)](https://www.buymeacoffee.com/ar414)
